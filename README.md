@@ -1,11 +1,11 @@
 # MICROSOFT AZURE AI + ADMINISTRATION PROJECT 
 
-Team Members- 
+## Team Members- 
 1. Samiksha Sanjay Desai
 2. Pratiksha Suresh Wankhade
 3. Prisha RajeshKumar Pandey
    
-Project Title:
+## Project Title:
 Doctor Appointment Application’s Virtual Networking Through Azure
 Administration. 
 
@@ -28,6 +28,7 @@ Application’s traffic is private and remains on the Microsoft backbone. It wil
 establishing healthy communication between two different regional networks of this
 Application.
 
+
 Azure Services - 
 
 1. Deployment of Virtual Machines and Hosting a Websites in it
@@ -40,6 +41,7 @@ Azure Services -
 
 5. Translators in both Regions by Azure Cognitive AI Service.
 
+
 ![image](https://github.com/pratikshawankhade11/azure-project-repo/assets/90560074/bcf77c3f-d441-4b1e-a3d5-29cc989bc5ff)   
 
 
@@ -48,6 +50,9 @@ https://drive.google.com/file/d/1FYJSH6lmgfjFVKYZLIUyGND98txaQt4o/view?usp=drive
 
 Project Demonstration Video - 
 https://drive.google.com/file/d/1tZ4DPiL1aLtfkdkM2sCw0VtPZHiPZSnI/view?usp=drive_link 
+
+
+The procedure with ScreenShots of the Project
 
 
 
