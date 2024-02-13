@@ -1,19 +1,23 @@
 # MICROSOFT AZURE AI + ADMINISTRATION PROJECT 
 
 
+
 ## Team Members - 
 1. Samiksha Sanjay Desai
 2. Pratiksha Suresh Wankhade
 3. Prisha RajeshKumar Pandey
+
    
 ## Project Title:
 Doctor Appointment Application’s Virtual Networking Through Azure
 Administration. 
 
+
 ## Problem Statement:
 In order to facilitate Doctor Appointment Application, The project aims to provide
 peering and a Virtual Private Network (VPN) connection between two virtual networks
 that are globally located in different regions. 
+
 
 ## Project Description:
   This Project includes Various Azure instances and Services, Azure Virtual Networks,
@@ -32,6 +36,7 @@ queries in there native tongues. It will help in establishing healthy communicat
 between two different regional networks of this Application.
 
 
+
 ## Azure Services - 
 
 1. Deployment of Virtual Machines and Hosting a Websites in it
@@ -45,7 +50,9 @@ between two different regional networks of this Application.
 5. Translators in both Regions by Azure Cognitive AI Service.
 
 
+
 ![image](https://github.com/pratikshawankhade11/azure-project-repo/assets/90560074/bcf77c3f-d441-4b1e-a3d5-29cc989bc5ff)   
+
 
 
 ## Project Synopsis -   
@@ -55,7 +62,9 @@ between two different regional networks of this Application.
    https://drive.google.com/file/d/1tZ4DPiL1aLtfkdkM2sCw0VtPZHiPZSnI/view?usp=drive_link 
 
 
+
 ## The procedure with ScreenShots of the Project
+
 
 ![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/bf48735a-4e68-4e2e-8217-ea50dcaeb7f7)
 
@@ -213,11 +222,6 @@ between two different regional networks of this Application.
 
 ![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/5c3c96ef-3258-4e32-bf7d-a0a5ee5723ad)
 
-![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/0e08bcd1-a95b-489b-9cc3-b26f5fe6d37f)
-
-![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/64afacb1-b50f-48aa-8e9c-aea124c07add)
-
-![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/194c37c7-9b90-428b-8073-0743dc92789e)
 
 
 
