@@ -222,6 +222,77 @@ between two different regional networks of this Application.
 
 ![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/5c3c96ef-3258-4e32-bf7d-a0a5ee5723ad)
 
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/bf697699-e0cd-44be-b605-79ef69fad2df)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/4f490e2d-7830-4d94-bc82-b88f87fdd9ee)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/347d9a94-ee11-4a44-b37a-de884d45ad14)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/b38e8d60-87f0-4fda-a0bb-7be6352d3032)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/72bc9a2f-ada9-476c-ac9c-1bdf75dc13bd)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/ebb69d06-4b4d-47b2-a8ea-4f054158fee0)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/ece34fe9-31cd-48ee-873c-e338377de3c1)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/76774257-dc96-4c2d-bba9-ae8453c027d3)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/64362f09-843e-4999-8011-a4d96e2127bb)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/e95b01e4-935a-4291-a7ac-ec1fcd20814b)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/97e6a1ea-4834-4fc5-b1b2-0d8ed9b60c7a)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/ee709f8c-2774-433b-b42a-1fc487c6d731)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/59e4cf5b-64b4-411e-8354-f70aff68701f)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/5f492d8e-fe45-43ed-84a8-26adc334bbf8)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/3396438a-e17c-46fe-9273-fd2fcf7c39b3)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/0a5a21fa-6c19-463c-aa65-28c8172eb0ec)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/08ef12fe-2a83-4d6d-97db-a6f98b742df4)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/b41948d4-2d71-49b6-bcad-7fba73708e48)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/bae37be5-6aac-4061-b05e-b9d8e11d3a33)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/e88f5171-bb85-49fe-a413-21b499f4ae5a)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/da56e507-ea68-49b8-828b-0ce331fcfe7d)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/0feefa8e-a0cc-4c05-9df7-525dc35edb62)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/d175a9e5-d82f-440b-aa66-e6d8808b6c2d)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/37599563-5e0e-47e9-9569-4b51331d63a4)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/2fc50d6c-6678-4040-ae4e-cd471f0d6831)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/5992af64-5890-4454-8931-8ccb5e694e44)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/8e092c1e-5cea-4c2b-b183-c77216c06174)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/3dfd61b6-3e0f-4d94-822a-7ce4e6d30247)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/dda5800d-093f-42fb-8ece-171cc29dc65c)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/4195225d-3179-4241-a295-194e881d69b7)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/207eafd2-f2fb-4ef2-867b-ba4a3f6a86ab)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/58a34204-a92f-4a73-a04f-9de9557e085b)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/b9fb4c88-84d8-41e7-94e4-87d3fa2f1566)
+
+![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/57937ec8-20ba-4cdc-a8fa-b3d731174a5e)
+
+                                      -------------------------Thank You------------------------
+
+
 
 
 
