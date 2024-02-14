@@ -290,7 +290,12 @@ between two different regional networks of this Application.
 
 ![image](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/assets/155519403/57937ec8-20ba-4cdc-a8fa-b3d731174a5e)
 
-                                      -------------------------Thank You------------------------
+
+
+[AZURE - AI + ADMINISTRATION PROJECT SYNOPSIS PDF.pdf](https://github.com/DesaiSamiksha07/MICROSOFT-AZURE-AI-ADMINISTRATION-PROJECT/files/14281348/AZURE.-.AI.%2B.ADMINISTRATION.PROJECT.SYNOPSIS.PDF.pdf)
+
+
+-----------------------------Thank You----------------------------
 
 
 
